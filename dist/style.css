@@ -1,0 +1,47 @@
+body{
+  background:linear-gradient(to left,Black,OrangeRed);
+}
+h1{
+  background-color:gray;
+  text-align:center;
+}
+.catalog{
+  background-color:DarkSlateGray;
+  float:left;
+  width:350px;
+  heigh:300px;
+  text-align:center;
+}
+.a{
+  border:2px solid gray;
+  background-color:SlateGray;
+}
+a:hover{
+  border:3px dashed black;
+  background-color:DimGray;
+  transform: rotate(25deg);
+}
+.mip{
+  width:390px;
+  height:285px;
+  float:left;
+  margin:2px;
+}
+.width{
+  width:350px;
+  height:250px;
+  border:5px solid black;
+} 
+img:hover{
+  transform: rotate(10deg); 
+}
+.mip4{
+  width:390px;
+  height:295px;
+  float:left;
+  margin:2px;
+}
+.width4{
+  width:340px;
+  height:300px;
+  border:5px solid black;
